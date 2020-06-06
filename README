@@ -3,10 +3,28 @@
 Elad Zohar
 June 2020
 
-- 
-Projects:
-Linked list, Matrix, BST
+DESCRIPTION ----------
+
+Data structures and search algortihms
+
+
+DIRECTORIES ----------
 
 -
-Files:
+BFS                     Breadth First Search algorithm used in directed or undirected graph.
 
+-
+BST                     Binary Search Tree algorithm.
+
+-
+DFS                     Depth First Search algorithm used in directed or undirected graph.
+
+-
+Linked_List             Doubly linked list structure. Sorts strings lexicographically.
+
+-
+Long_List               Doubly linked list structure using longs. Parse large integer inputs
+                        and runs mathematical operations on them.
+
+-
+Matrix                  Builds matrices with linked lists. Runs aritmetic operations on the structs.
