@@ -1,0 +1,27 @@
+Elad Zohar
+ezohar
+Spring 2020
+
+
+pa5
+-----------
+FILES
+
+-
+Dictionary.c        File containing code to run functions in Lex.c
+
+-
+Dictionary.h        Header file containing functions for Dictionary.c
+
+-
+DictionaryTest.c    Tester file to test Dictionary.c functions.
+
+-
+Lex.c               File to execute Lex. Utilizes Dictionary.c and Dictionary.h. Creates a dictionary library using binary tree.
+
+-
+Makefile            Makefile to compile code.
+
+-
+README              Text file containing file descriptions.
+-----------

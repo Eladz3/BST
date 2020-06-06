@@ -1,0 +1,33 @@
+Elad Zohar
+ezohar
+Spring 2020
+
+
+pa3
+-----------
+FILES
+
+-
+FindPath.c          Contains the code that
+
+- 
+GraphTest.c         Contains test code for Graph.c
+
+-
+Graph.c             Contains all the code that runs the commands defined in the Graph.h file
+
+-
+Graph.h             Header file for Graph.c
+
+-
+List.c              Contains all the code that runs the commands defined in the List.h file.
+
+-
+List.h              A header file containing all the commands to call from the List.c file.
+
+-
+Makefile            Compiles code for FindPath.c and GraphTest.c so they can be run.
+
+-
+README              Text file containing file descriptions.
+-----------

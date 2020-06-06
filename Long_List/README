@@ -1,0 +1,36 @@
+Elad Zohar
+ezohar
+Spring 2020
+
+
+pa2
+-----------
+FILES
+
+-
+Arithmetic.c        Contains the code that runs operations on the input Big Integers
+
+- 
+BigInteger.c        Contains all the functions that are called to run in Arithmetic
+
+-
+BigInteger.h        Header file for BigInteger.c
+
+-
+BigIntegerTest.c    Test file for all the BigInteger functions
+
+-
+List.c              Contains all the code that runs the commands defined in the List.h file.
+
+-
+List.h              A header file containing all the commands to call from the List.c file.
+
+-
+ListTest.c          File that tests code from List.c file.
+
+-
+Makefile            Compiles code for Sparse.c, MatrixTest.c, and ListTest.c so it can be run.
+
+-
+README              Text file containing file descriptions.
+-----------

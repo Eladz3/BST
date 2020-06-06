@@ -1,0 +1,33 @@
+Elad Zohar
+ezohar
+Spring 2020
+
+
+pa4
+-----------
+FILES
+
+-
+FindComponents.c    Contains the code that finds, sorts, and prints all components of a graph.
+
+- 
+GraphTest.c         Contains test code for Graph.c.
+
+-
+Graph.c             Contains all the code that runs the commands defined in the Graph.h file.
+
+-
+Graph.h             Header file for Graph.c.
+
+-
+List.c              Contains all the code that runs the commands defined in the List.h file.
+
+-
+List.h              Header file for List.c.
+
+-
+Makefile            Compiles code for FindComponents.c and GraphTest.c so they can be run.
+
+-
+README              Text file containing file descriptions.
+-----------

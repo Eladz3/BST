@@ -1,1 +1,28 @@
-test
+Elad Zohar
+ezohar
+Spring 2020
+
+
+pa1
+-----------
+FILES
+
+-
+List.h              A header file containing all the commands to call from the List.c file.
+
+-
+List.c              Contains all the code that runs the commands defined in the List.h file.
+
+-
+ListClient.c        File that tests code from List.c file.
+
+-
+Lex.c               Program that alphabetizes all individual strings
+
+-
+Makefile            Compiles code for ListClient.c and Lex.c so it can be run.
+
+-
+README              Text file containing file descriptions.
+-----------
+

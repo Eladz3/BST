@@ -1,0 +1,37 @@
+Elad Zohar
+ezohar
+Fall 2019
+
+
+pa2
+-----------
+FILES
+
+-
+Sparse.c            Source code for a program that receives data from input file and runs mathematical 
+                    calculations on two matrices.
+
+-
+Matrix.c            Contains all the code that runs the commands defined in the Matrix.h file.
+
+-
+Matrix.h            A header file containing all the commands to call from the Matrix.c file.
+
+-
+MatrixTest.c        File that tests Matrix.c file.
+
+-
+List.c              Contains all the code that runs the commands defined in the List.h file.
+
+-
+List.h              A header file containing all the commands to call from the List.c file.
+
+-
+ListTest.c          File that tests code from List.c file.
+
+-
+Makefile            Compiles code for Sparse.c, MatrixTest.c, and ListTest.c so it can be run.
+
+-
+README              Text file containing file descriptions.
+-----------
